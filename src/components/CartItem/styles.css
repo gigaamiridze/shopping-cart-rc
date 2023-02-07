@@ -1,0 +1,17 @@
+.cart-item {
+  margin-bottom: 15px;
+}
+
+.cart-img {
+  width: 125px;
+  height: 75px;
+  object-fit: cover;
+}
+
+.item-quantity {
+  font-size: .65rem;
+}
+
+.item-price {
+  font-size: .75rem;
+}

@@ -1,0 +1,15 @@
+.cart-btn {
+  width: 3rem;
+  height: 3rem;
+  position: relative;
+}
+
+.items-quantity {
+  color: white;
+  width: 1.5rem;
+  height: 1.5rem;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  transform: translate(25%, 25%);
+}
